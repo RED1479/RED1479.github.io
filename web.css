@@ -1,0 +1,54 @@
+html {
+    background-image: url(background.jpg); background-repeat: no-repeat; background-position: center;
+}
+
+body {
+    width: 1000px;
+    padding: 50px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    text-align: justify;
+    font-family: Cabin Sketch;
+    
+}
+
+body {
+    border: 5px solid blue; 
+}
+
+a {
+    font-family: Prosto One;   
+    font-size: 25pt;
+    color: skyblue;
+    text-decoration:overline; text-align: center;
+}
+
+a:hover {
+    color: red;
+}
+
+
+ h1{
+    font-size: 10; font-family: Special Elite;
+    color:skyblue;
+    border-top: 2px solid white  ;
+    text-transform: lowercase; text-shadow: (2px, 2px, 5px, white)
+}
+
+p {
+    font-size: 20pt;
+    line-height: 24pt; color: aliceblue;
+}
+
+img {
+    border: 2px solid red;
+    box-shadow: 10px 10px 10px rgba(1, 1, 1, 5); display: block; margin-left: auto; margin-right: auto;
+}
+
+video {border: 3px solid white;
+    box-shadow: 10px 10px 10px rgba(1, 1, 1, 5); display: block; margin-left: auto; margin-right: auto
+}
